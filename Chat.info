@@ -1,0 +1,1 @@
+{"primary_key": "id", "db": {"type": "DB", "id": "68c2b55f-1db4-4d45-bed9-2d2e2082e076", "name": "crash_game"}, "doc_count_estimates": [0], "indexes": [], "write_hook": null, "type": "TABLE", "id": "8a9f5a20-4b33-4397-88a3-1423047ea37c", "name": "Chat"}

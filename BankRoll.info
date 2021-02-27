@@ -1,0 +1,1 @@
+{"primary_key": "id", "db": {"type": "DB", "id": "68c2b55f-1db4-4d45-bed9-2d2e2082e076", "name": "crash_game"}, "doc_count_estimates": [2], "indexes": [], "write_hook": null, "type": "TABLE", "id": "c2990e68-4084-4331-b8f4-8b7d2c414504", "name": "BankRoll"}

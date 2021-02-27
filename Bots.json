@@ -1,0 +1,12 @@
+[
+{"uid": "f41103692", "min": "10", "max": "1000", "name": "shubhambot2", "cmax": 1000, "id": "22211df4-e577-45ba-be18-4dae220fb761", "cmin": 10000},
+{"uid": "f52002111", "min": "10", "max": "10000", "name": "testbot_via_admin", "cmax": 1000, "id": "43348b80-e32d-4a27-9fd7-99a66fbfb8ca", "cmin": 10000},
+{"uid": "f57322871", "min": "1", "max": "1000", "name": "test2", "cmax": 100, "id": "642c5367-94e8-4135-b176-b7bbe5643336", "cmin": 1200},
+{"uid": "f21347534", "min": "10", "max": "1010", "name": "bot123", "cmax": 1000, "id": "6615cd23-be95-460c-8988-b6d39e47263e", "cmin": 10000},
+{"uid": "f21946972", "min": "10", "max": "1000", "name": "shubhambot", "cmax": 100, "id": "71d2a61b-4ed9-46ca-9813-d6c149f371ad", "cmin": 1000},
+{"uid": "f57315147", "min": 1, "max": 12, "name": "test", "cmax": 10, "id": "848c58ed-25c5-437a-b623-63245a549204", "cmin": 0},
+{"uid": "f44877951", "min": "10", "max": "1000", "name": "hellobot", "cmax": 1000, "id": "9c0c0286-b729-486b-b6c0-a5175d5567df", "cmin": 14000},
+{"uid": "f51910629", "min": "1001", "max": "101000", "name": "ads", "cmax": 100, "id": "c7cd9a16-23fd-4ce8-9c66-49093f279ca3", "cmin": 1000},
+{"uid": "f66232014", "min": "10", "max": "1000", "name": "testbot_via_admin2", "cmax": 100, "id": "cadf42cb-8d03-42f0-a3a6-a8dcd0f0c19d", "cmin": 1000},
+{"uid": "f60061248", "min": "10", "max": "2000", "name": "shubhambot3", "cmax": 2000, "id": "cbc80a2b-7979-4aa7-8622-60ba45d11fda", "cmin": 100000}
+]
