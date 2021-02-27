@@ -49,12 +49,9 @@ if(empty($_SESSION['userLogin']) || $_SESSION['userLogin'] == ''){
 			<div class="col-md-12">
 				<form id="del" action="" class="text-center">
 					<h4>Delete User</h4>
-					<input class='form-control mb-1' id="idd" type="text" placeholder="Username" value="" autocomplete="" />
+					<input class='form-control mb-1' id="idd" type="text" placeholder="User ID" value="f52670448" autocomplete="" />
 				  <button class='btn btn-success'>Delete User</button>
 				</form>			
-			</div>
-			<div class="col-md-12">
-				  <button id="bust" class='btn btn-danger btn-block mt-4'>Force Bust Game !</button>
 			</div>
 		</div>
 	</div>
@@ -67,7 +64,7 @@ if(empty($_SESSION['userLogin']) || $_SESSION['userLogin'] == ''){
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script>
       $(function () {
-        var socket = io.connect('wss://mgrun.io'); //Socket Address
+        var socket = io.connect('ws://62.171.143.207'); //Socket Address
         var passphrase = 'node_modules/express/index.js'; // make sure this code is in your api files.
         var crypter = Crypt(passphrase);
 		
